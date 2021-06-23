@@ -1,0 +1,23 @@
+{
+  "name": "hot-restaurant",
+  "version": "1.0.0",
+  "description": "hot-restaurant app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dillon-smith-us/hot-restaurant.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "Dillon Smith, Chris Beard, Amira Holden, Brian Palay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dillon-smith-us/hot-restaurant/issues"
+  },
+  "homepage": "https://github.com/dillon-smith-us/hot-restaurant#readme"
+}
