@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/dillon-smith-us/hot-restaurant/issues"
   },
-  "homepage": "https://github.com/dillon-smith-us/hot-restaurant#readme"
+  "homepage": "https://github.com/dillon-smith-us/hot-restaurant#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^8.1.1",
+    "jest": "^27.0.5"
+  }
 }
